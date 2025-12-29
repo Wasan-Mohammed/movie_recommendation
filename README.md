@@ -1,6 +1,6 @@
 # movie recommendation
-Objective: Predict ratings for unwatched movies using machine learning.
-Data: User ratings and movie metadata (titles, genres).
+- Objective: Predict ratings for unwatched movies using machine learning.
+- Data: User ratings and movie metadata (titles, genres).
 
 
 
